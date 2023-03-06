@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c21f239b-556b-495e-bac6-623bee949c95",
+    "data": [
+      {
+        "text": "Sevilla",
+        "meta": "@sys.any",
+        "alias": "city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7783e5f3-6990-4b61-946f-7de92864e66b",
+    "data": [
+      {
+        "text": "Madrid",
+        "meta": "@sys.any",
+        "alias": "city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

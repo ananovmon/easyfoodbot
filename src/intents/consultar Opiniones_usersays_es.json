@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7e77e851-759b-4869-bfda-fa40cc8b6834",
+    "data": [
+      {
+        "text": "opiniones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "73052281-25b1-4e56-9596-595bb4dbf48b",
+    "data": [
+      {
+        "text": "Quiero ver sus opinones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

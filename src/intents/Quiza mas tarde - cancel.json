@@ -1,0 +1,56 @@
+{
+  "id": "b8e2b297-784e-469d-bb03-82bbc40cbd6b",
+  "parentId": "2935f585-96ec-4ae6-93f4-103fd1baa554",
+  "rootParentId": "2935f585-96ec-4ae6-93f4-103fd1baa554",
+  "name": "Quiza mas tarde - cancel",
+  "auto": true,
+  "contexts": [
+    "Quizamastarde-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Quizamastarde.Quizamastarde-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hasta la próxima!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Es una pena...",
+            "Te echaré de menos...",
+            "Vaya..."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

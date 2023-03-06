@@ -1,0 +1,31 @@
+{
+  "id": "3f33e0a9-0b28-4bc1-b31e-4c8555c4c89c",
+  "name": "get Name - Fallback",
+  "auto": true,
+  "contexts": [
+    "esperando_usuario"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "esperando_usuario",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

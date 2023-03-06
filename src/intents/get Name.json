@@ -1,0 +1,55 @@
+{
+  "id": "009b27cc-86e4-4c44-bf2b-f4c50aeaa86e",
+  "name": "get Name",
+  "auto": true,
+  "contexts": [
+    "esperando_nombre"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.username",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "733d9303-1bc6-49fb-ba85-02ce73af2714",
+          "name": "username",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$username",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Genial. Ahora contraseña"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

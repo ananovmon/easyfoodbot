@@ -1,0 +1,79 @@
+{
+  "id": "17021a08-9375-4fd7-88ea-2f143ea44bbf",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "Iniciar sesion",
+                      "text": "Iniciar sesión"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Registro",
+                      "text": "Registrarse"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Quizá más tarde",
+                      "callback_data": "Quiza mas tarde"
+                    }
+                  ]
+                ]
+              },
+              "text": "¡Bienvenid@ a EasyFoodBot! Descubre los locales hosteleros que te esperan en la ciudad que elijas y realiza una reserva con un simple click. ¡Empecemos!"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Buenos días!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "6d8cac20-427c-4f9e-810f-be6d5c5157f5",
+    "data": [
+      {
+        "text": "información de reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4e2dd715-afcd-468b-bd6d-34533e65766b",
+    "data": [
+      {
+        "text": "reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1b443d59-b0f9-463d-b496-4530fe405843",
+    "data": [
+      {
+        "text": "buscar restaurante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4ceebc0c-2cf7-42fb-bdbd-8c67b432d9c3",
+    "data": [
+      {
+        "text": "restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bc1421b8-5c98-46de-8630-0f74142cde1f",
+    "data": [
+      {
+        "text": "informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

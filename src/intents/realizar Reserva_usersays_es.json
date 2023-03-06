@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bd733297-5730-4f3f-8ab3-96f6958d47c1",
+    "data": [
+      {
+        "text": "reserva",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9939335e-fd78-460d-ac7e-9a3a333aab6f",
+    "data": [
+      {
+        "text": "quiero realizar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

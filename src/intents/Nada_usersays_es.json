@@ -1,0 +1,54 @@
+[
+  {
+    "id": "194e3f19-66f2-405d-9cc7-41e5c91d2107",
+    "data": [
+      {
+        "text": "cerrar sesión",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5720e930-39ef-41b7-b73f-bd97b7f45cb1",
+    "data": [
+      {
+        "text": "salir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d095586a-1cc9-4224-a8bb-5cfe943f55cd",
+    "data": [
+      {
+        "text": "cancelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7dc023d7-6eb5-4136-8c3d-a6ee42975597",
+    "data": [
+      {
+        "text": "nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

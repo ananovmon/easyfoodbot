@@ -1,0 +1,84 @@
+{
+  "id": "2935f585-96ec-4ae6-93f4-103fd1baa554",
+  "name": "Quiza mas tarde",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Quizamastarde-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "informacion",
+                      "text": "Buscar información sobre restaurantes"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Iniciar sesión",
+                      "callback_data": "iniciar sesion"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Registrarse",
+                      "callback_data": "registro"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Nada",
+                      "callback_data": "cancelar"
+                    }
+                  ]
+                ]
+              },
+              "text": "¿Qué quieres hacer ahora?"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Sin problema!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

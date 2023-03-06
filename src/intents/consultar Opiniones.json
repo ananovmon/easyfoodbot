@@ -1,0 +1,14 @@
+{
+  "id": "4d83917c-06fe-4314-a7c1-be77f1697bc7",
+  "name": "consultar Opiniones",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

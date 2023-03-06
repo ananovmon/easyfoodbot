@@ -1,0 +1,21 @@
+[
+  {
+    "id": "aade89ad-72e6-488c-9881-54bd976e2cdb",
+    "data": [
+      {
+        "text": "eliminar el restaurante ",
+        "userDefined": false
+      },
+      {
+        "text": "ign4XJMYzNfY8YKxZSRtqg",
+        "meta": "@sys.any",
+        "alias": "id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
